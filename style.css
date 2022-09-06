@@ -15,3 +15,6 @@ h1,h3{
 .code_example{
     padding: 20px;
 }
+#contacts{
+    list-style-type: none;
+}
