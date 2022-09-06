@@ -1,0 +1,17 @@
+*{
+    background-color: aliceblue;
+    font-family: Roboto;
+}
+h1,h3{
+    text-align: center;
+}
+.code_example,pre{
+    background-color: lightslategray;
+    text-align: center;
+    width: 500px;
+    color: #fff;
+   
+}
+.code_example{
+    padding: 20px;
+}
